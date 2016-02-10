@@ -1,0 +1,7 @@
+#useradd -m -G uadm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi,pi -s /bin/bash larry 
+#passwd larry
+
+Replace larry with your name
+I am not sure if we need to make a user in the pi group but I did anyway.
+
+
