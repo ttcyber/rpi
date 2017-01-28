@@ -79,7 +79,7 @@ a{
     .col-12 {width: 100%;}
 }
 
-</sty
+</style>
 <body>
 # rpi
 rpi code and configuration
