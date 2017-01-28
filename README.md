@@ -14,7 +14,7 @@ As root (sudo -i)
 #apt-get autoremove
 
 #apt-get install firefox-esr
-#apt-get install bless
+#apt-get install bless (hex editor)
 
 // nodejs
 curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
