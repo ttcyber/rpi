@@ -8,7 +8,7 @@ Updated
 As root (sudo -i)
 
 # useradd -m -d /home/username  username
-# usermod -aG pi adm dialout cdrom sudo audio video plugdev games users input netdev gpio i2c spi cwc
+# usermod -a -G pi,adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi cwc
 
 # apt-get upgrade
 # apt-get update
