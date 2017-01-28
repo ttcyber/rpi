@@ -1,10 +1,4 @@
 
-
-
-<!DOCTYPE html>
-<html><head>
-<meta http-equiv="content-type" content="text/html; charset=windows-1252"><title>Tri-Tech Skills Center Programs</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 * {
     box-sizing: border-box;
@@ -114,5 +108,4 @@ sudo apt-get install -y nodejs
 </pre>
 
 
-</body>
-</html>
+</body
