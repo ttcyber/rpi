@@ -29,6 +29,7 @@ curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 sudo apt-get install -y nodejs
 
 <hr />
+DO NOT DO THIS ON CLIENTS
 Back up /etc/dhcpcd.conf
 then replace the code with the following:
 
