@@ -4,7 +4,11 @@ rpi code and configuration
 As root (sudo -i)
 Configure the pi
 #raspi-config
-
+- Expand the file system.
+- Se pi password 
+- Change your keyboard layout to US
+- Change hostname to z314 where z is NATO letter of your work station.
+- Enable ssh
 
 # useradd -m -d /home/username  username
 # usermod -a -G pi,adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi username
