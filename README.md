@@ -1,11 +1,15 @@
 # rpi
 rpi code and configuration
-<pre>
-Updated 
+<pre> 
 As root (sudo -i)
+Configure the pi
+#raspi-config
+
 
 # useradd -m -d /home/username  username
-# usermod -a -G pi,adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi cwc
+# usermod -a -G pi,adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi username
+Change your password
+#passwd username
 
 # apt-get upgrade
 # apt-get update
